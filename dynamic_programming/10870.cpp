@@ -1,3 +1,5 @@
+// B2 피보나치 수 5
+
 #include <iostream>
 using namespace std;
 
